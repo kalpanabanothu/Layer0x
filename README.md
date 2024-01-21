@@ -29,7 +29,7 @@ https://github.com/victoryanonymous/Layer0x/assets/111217552/d5a93089-7a3a-4671-
 Clone the project
 
 ```bash
-  git clone https://github.com/kalpanabanothu/Layer0x.git
+  git clone https://github.com/victoryanonymous/Layer0x.git
 ```
 
 for Backend :
@@ -66,3 +66,6 @@ https://github.com/victoryanonymous/Layer0x/assets/111217552/cd06897e-594e-424f-
 
 https://github.com/victoryanonymous/Layer0x/assets/111217552/fb494425-5596-4f8b-82e7-a0f5513d9a42
 
+
+## 🚀 About Me
+I'm a mern stack developer...
