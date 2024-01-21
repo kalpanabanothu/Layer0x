@@ -1,7 +1,7 @@
 # Layer0x😊
 **Challenge 1:** (KADANE'S ALGORITHM)
 
-https://github.com/victoryanonymous/Layer0x/assets/111217552/510f17c3-a50d-4f1b-b379-90126146c833
+https://github.com/kalpanabanothu/Layer0x/assets/136302629/b348340a-2420-4d72-9891-1b62bcf516c8
 
 
 **Challenge 2:** (Print Longest Palindrome)
